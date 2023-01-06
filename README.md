@@ -12,6 +12,12 @@ pip install -r requirements.txt
 waitress-serve waitress_server:app
 ```
 
+**OR**
+
+```bash
+python app.py
+```
+
 ## Rest API
 
 ### <http://localhost:5000/api/check>
